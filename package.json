@@ -1,0 +1,15 @@
+{
+  "name": "clima-agora",
+  "version": "1.0.0",
+  "description": "Projeto de clima onde quiser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.5.2"
+  }
+}
